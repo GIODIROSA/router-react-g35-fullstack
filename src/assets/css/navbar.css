@@ -1,0 +1,16 @@
+.navbar-nav {
+  gap: 2rem !important;
+}
+
+.bg-navbar-color {
+  background-color: #fdcedf;
+}
+
+.navbar-nav .nav-link.active {
+  background-color: #f2bed1;
+}
+
+.navbar-nav .nav-link.active:hover {
+    background-color: #f2bed1;
+  }
+  
